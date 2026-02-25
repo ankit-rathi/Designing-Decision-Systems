@@ -1,3 +1,30 @@
+## D. Decision Velocity vs Decision Quality
+
+### Why
+
+Speed improves competitiveness.
+But fast wrong decisions scale damage.
+
+### What
+
+* Velocity = how fast decisions are made
+* Quality = how accurate or economically sound they are
+
+There is tension.
+
+### How
+
+Segment decisions:
+
+* High-frequency, low-risk → automate
+* Low-frequency, high-risk → structured human review
+
+Design different governance layers for each.
+
+Not all decisions deserve the same friction.
+
+---
+
 From first principles, decisions allocate resources under uncertainty. Two dimensions determine their impact: frequency and consequence. Speed (decision velocity) increases responsiveness and throughput. Quality (decision soundness) reduces error cost and downside risk. Because information, time, and cognitive attention are limited, improving one often constrains the other.
 
 Speed creates competitive advantage when opportunities are time-sensitive. In e-commerce, approving transactions in milliseconds reduces checkout friction and increases conversion. If every transaction required manual review, revenue would collapse. Here, velocity has direct economic value.
