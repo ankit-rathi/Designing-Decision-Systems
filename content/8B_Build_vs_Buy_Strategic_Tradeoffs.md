@@ -1,3 +1,31 @@
+## B. Build vs Buy — Strategic Tradeoffs
+
+### Why
+
+Engineering resources are scarce. Time-to-market matters. Control matters.
+
+Every build vs buy decision is a bet on where your competitive edge lives.
+
+### What
+
+* **Build**: custom, differentiated capability
+* **Buy**: standardized, commoditized capability
+
+### How
+
+Ask:
+
+1. Is this core to our competitive advantage?
+2. Will owning it improve margins or defensibility?
+3. Is the vendor solution “good enough”?
+
+Build differentiation.
+Buy infrastructure.
+
+Confuse the two → waste capital.
+
+---
+
 From first principles, a firm has limited capital, limited engineering bandwidth, and limited time. Every hour spent building something is an hour not spent building something else. Therefore, build-versus-buy is fundamentally a capital allocation decision under constraint.
 
 The core question is: where does competitive advantage originate? If an activity meaningfully differentiates the firm — improving margins, defensibility, customer experience, or strategic control — owning it may compound value over time. If an activity is standardized and widely available, building it internally consumes resources without creating edge.
