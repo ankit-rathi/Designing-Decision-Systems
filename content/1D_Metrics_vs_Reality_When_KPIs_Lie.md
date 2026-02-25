@@ -1,3 +1,13 @@
+## **D. Metrics vs Reality — When KPIs Lie**
+
+**Why:** Metrics can **distort incentives** if optimized in isolation. Teams may chase the number, not true value.
+
+**What:** KPIs are **proxies for desired outcomes**, not the outcomes themselves.
+
+**How:** Use metrics to inform, not dictate, decisions. For instance, optimizing clicks (metric) vs long-term customer value (true outcome) shows the gap between metric and reality.
+
+---
+
 From first principles, organizations cannot directly measure abstract goals like “customer trust” or “long-term value creation.” So they create metrics — simplified numerical proxies — to represent those goals. A KPI is not reality; it is a compressed signal meant to approximate reality. Problems begin when the proxy is treated as the objective itself.
 
 This is a structural issue. Once a metric becomes a target, behavior adapts to optimize that number, sometimes at the expense of the underlying goal. This is a predictable outcome of incentive systems. If a marketing team is rewarded for click-through rate, they will design headlines that maximize clicks. But clicks do not equal revenue, retention, or brand strength. Sensational content may increase engagement in the short term while degrading customer trust and long-term value.
