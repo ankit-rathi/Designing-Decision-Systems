@@ -1,3 +1,34 @@
+## A. Measuring ROI of Data & AI
+
+### Why
+
+Data teams often optimize dashboards and models — not economic impact.
+
+If you cannot tie AI to cash flow, risk reduction, or capital efficiency, it’s overhead.
+
+### What
+
+ROI in data/AI means measurable improvement in:
+
+* Revenue
+* Cost
+* Risk
+* Speed of decision-making
+* Capital allocation efficiency
+
+Not model accuracy. Not dashboard adoption.
+
+### How
+
+* Define decision → define economic variable → define measurable delta
+* Compare “decision without AI” vs “decision with AI”
+* Run experiments when possible
+* Track leading indicators tied to financial outcomes
+
+If the metric cannot connect to money or risk, it’s vanity.
+
+---
+
 From first principles, a firm exists to convert capital into greater future cash flows under uncertainty. Any initiative—technology, hiring, marketing—must justify itself by improving that conversion. Data and AI are no exception. If they do not change economic outcomes, they are cost centers disguised as innovation.
 
 The mistake many organizations make is optimizing technical artifacts: model accuracy, dashboard usage, feature counts. These are intermediate outputs, not economic results. A churn model that improves AUC from 0.82 to 0.87 creates no value unless it changes retention actions in ways that increase customer lifetime value net of intervention cost.
