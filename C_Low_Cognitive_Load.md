@@ -161,3 +161,170 @@ Ultimately, good system design ensures that sound decisions happen naturally, no
 
 ---
 
+### 1A. What Is a Decision (and Why Most Systems Ignore It)
+
+Real value is created through decisions, not through reports or dashboards.
+
+Many systems forget this and focus on producing outputs instead of improving actions.
+
+A decision is a commitment of resources like time, money, or attention under uncertainty.
+
+Because resources are limited, each decision has real economic consequences.
+
+Data, analytics, and models are useful only if they help make better commitments.
+
+When decisions are clearly defined, organizations can evaluate the quality of those decisions.
+
+Measuring decision quality is more meaningful than tracking surface-level metrics or activity.
+
+Systems that keep decisions at the center turn data and models into tools for real impact rather than ends in themselves.
+
+---
+
+### 1B. Uncertainty, Risk & Expected Value
+
+Every decision involves uncertainty because future outcomes cannot be known with certainty.
+
+Ignoring uncertainty increases the risk of unexpected losses or poor results.
+
+Risk reflects the range and variability of possible outcomes.
+
+Expected value combines probability and payoff to estimate the average long-term return of a decision.
+
+Rational systems focus on maximizing expected value rather than simply increasing the chance of success.
+
+A decision with lower probability can still be better if its potential payoff is higher.
+
+Decision frameworks use expected value to compare options more objectively.
+
+By accounting for risk and uncertainty, organizations can make choices that improve long-term outcomes instead of reacting to short-term noise.
+
+---
+
+### 1C. Signal vs Noise in Real Organizations
+
+Organizations generate huge amounts of data, but not all of it is useful.
+
+When teams mistake random variation for meaningful insight, they waste time and make poor decisions.
+
+Signal is information that is causally relevant and can guide action.
+
+Noise is random fluctuation or misleading patterns that do not reliably predict outcomes.
+
+The challenge is not collecting more data, but distinguishing signal from noise.
+
+Statistical methods, repeated observations, and domain expertise help filter out noise.
+
+Strong analytical systems are designed to highlight consistent, meaningful patterns.
+
+When decisions are based on true signal rather than noise, organizations allocate resources more effectively and improve results over time.
+
+---
+
+### 1D. Metrics vs Reality — When KPIs Lie
+
+Metrics are useful, but they can distort behavior when optimized in isolation.
+
+When teams focus only on improving a number, they may lose sight of the real objective.
+
+KPIs are proxies for desired outcomes, not the outcomes themselves.
+
+A proxy works only if it stays aligned with true value creation.
+
+For example, maximizing clicks may increase a metric but reduce long-term customer trust or lifetime value.
+
+This gap between metric and reality creates hidden costs.
+
+Metrics should guide judgment, not replace it.
+
+Strong systems regularly check whether their KPIs still reflect the outcomes that actually matter.
+
+### 1E. Correlation, Causation & False Confidence
+
+Data often shows patterns, but not every pattern explains what is truly happening.
+
+Correlation means two variables move together.
+
+Causation means one variable directly influences the other through a real mechanism.
+
+Confusing correlation with causation creates false confidence in decisions.
+
+Acting on correlation alone can lead to wasted resources or unintended harm.
+
+To test causation, organizations use controlled experiments and time-based analysis.
+
+Domain expertise also helps identify whether a plausible mechanism exists.
+
+By separating correlation from causation, decisions become more reliable and grounded in reality.
+
+### 1F. Prediction vs Explanation — Business Implications
+
+Predicting an outcome is not the same as understanding why it happens.
+
+Prediction focuses on estimating what is likely to occur in the future.
+
+Explanation focuses on identifying the mechanisms and drivers behind an outcome.
+
+A system that only predicts may perform well in stable conditions but struggle when circumstances change.
+
+Understanding causes helps organizations assess risk and adapt to new scenarios.
+
+Machine learning models are often strong at prediction but weak at explanation on their own.
+
+Combining predictive power with causal insight improves confidence in decisions.
+
+Businesses that balance prediction and explanation make choices that are both timely and resilient.
+
+### 1G. Tradeoffs — No Perfect Systems
+
+Every system design choice involves a tradeoff.
+
+Improving one dimension usually means weakening another.
+
+For example, increasing speed may reduce accuracy, and lowering cost may reduce coverage.
+
+There is no perfect system that maximizes all goals at once.
+
+Ignoring tradeoffs leads to unrealistic expectations and fragile solutions.
+
+Strong decision-makers make tradeoffs explicit instead of hiding them.
+
+They align tradeoffs with the real decision context, not idealized metrics.
+
+By accepting constraints and choosing consciously, organizations build systems that are robust and purpose-driven.
+
+### 1H. Decision Quality vs Outcome Quality
+
+Outcomes and decisions are not the same thing.
+
+A good outcome can happen because of luck, not because the decision was sound.
+
+A bad outcome can occur even when the decision process was rational and well-structured.
+
+If organizations judge quality only by results, they mislearn and reinforce the wrong behaviors.
+
+Decision quality is about using a disciplined process under uncertainty.
+
+Outcome quality is simply what happened after the fact.
+
+Strong systems evaluate how decisions were made, not just how they turned out.
+
+With clear feedback loops, teams can continuously improve the decision process and increase long-term success.
+
+### 1I. Feedback Loops & Learning Systems
+
+Decisions only improve when results are fed back into the system.
+
+Without feedback, teams repeat the same mistakes or rely on outdated assumptions.
+
+Feedback loops capture outcomes and compare them to expectations.
+
+They update beliefs, models, and processes based on what actually happened.
+
+Monitoring systems track performance and detect when results drift.
+
+Experimentation helps test new ideas in a controlled way.
+
+Model updates refine predictions and reduce repeated errors.
+
+Over time, strong feedback loops turn isolated decisions into a learning system that continuously improves performance.
