@@ -68,11 +68,3 @@ But data and AI as structured economic decision engines.
 That’s what I help teams design.
 
 ---
-
-If you’d like, I can now:
-
-* Create a slightly more provocative version for LinkedIn
-* Or make a sharper, board-level 90-second version
-* Or tighten this into a crisp memorisable script you can internalize easily
-
-Which direction do you want to refine next?
