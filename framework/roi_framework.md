@@ -299,5 +299,3 @@ The framework is only as strong as:
 If you enforce those three, this becomes a capital allocation tool — not a justification document.
 
 ---
-
-Your move.
