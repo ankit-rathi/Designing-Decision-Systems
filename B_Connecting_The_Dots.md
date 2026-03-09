@@ -1,6 +1,8 @@
 Below is a **20-chapter conceptual walkthrough of your book**.
 Each chapter is ~150 words and written as **a tight logical chain**, where every sentence builds on the previous one so the reader can connect the entire **data ecosystem through the Decision Intelligence Loop**.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/21cdd5f9-0732-4cbe-88ef-16eb0cad9f89" />
+
 ---
 
 # PART I — Foundations: Why Data Exists
