@@ -145,7 +145,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Automated Fraud Detection in Digital Payments
+## Example — Automated Fraud Detection in Digital Payments
 
 Consider how a digital payment platform uses predictive intelligence to detect fraudulent transactions.
 
@@ -179,7 +179,7 @@ Through this process, predictive intelligence becomes operational value by guidi
 
 ---
 
-## Final Section — Designing Decisions That Turn Intelligence into Action
+## Designing Decisions That Turn Intelligence into Action
 
 * Predictive intelligence provides estimates about future outcomes, but predictions alone do not create impact.
 * Decision design connects predictive insights to operational choices through structured evaluation and rules.
