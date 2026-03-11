@@ -178,7 +178,9 @@ Through this experiment, the organization obtains **direct evidence about the ef
 * Continuous experimentation allows companies to refine products, strategies, and algorithms through incremental improvements.
 * Over time, experimentation becomes a core capability that strengthens the organization’s ability to learn from real-world interactions.
 
-The next chapter explores how experimentation integrates with learning and deployment processes to create **adaptive intelligence systems that evolve continuously through validated improvements**.
+**Transition to the Next Chapter**
+
+Experimentation allows organizations to validate ideas through evidence gathered from real-world interactions. But running experiments and analyzing their results requires reliable access to large volumes of data. The next chapter explores the data platforms that provide the infrastructure supporting modern data and intelligence systems.
 
 ---
 
