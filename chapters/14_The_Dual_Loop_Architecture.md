@@ -157,7 +157,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Fraud Detection Systems in Online Payments
+## Example — Fraud Detection Systems in Online Payments
 
 Consider how a digital payment platform continuously improves its fraud detection system.
 
@@ -188,7 +188,7 @@ Through this architecture, the platform improves fraud detection accuracy while 
 
 ---
 
-## Final Section — Designing Systems That Learn Without Disrupting Operations
+## Designing Systems That Learn Without Disrupting Operations
 
 * Intelligent systems must balance two competing goals: **operational stability and continuous improvement**.
 * The dual loop architecture resolves this challenge by separating real-time decision execution from offline learning processes.
