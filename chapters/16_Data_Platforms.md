@@ -140,7 +140,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Data Platform Architecture in an Online Retail Company
+## Example — Data Platform Architecture in an Online Retail Company
 
 Consider how an online retail platform organizes its data infrastructure.
 
@@ -175,7 +175,7 @@ Through this architecture, the company ensures that data flows efficiently from 
 
 ---
 
-## Final Section — Building the Foundation for Intelligence Systems
+## Building the Foundation for Intelligence Systems
 
 * Data platforms provide the infrastructure that supports modern decision intelligence ecosystems.
 * By integrating storage systems, analytical processing, and machine learning inputs, these platforms transform raw data into usable intelligence.
