@@ -190,7 +190,9 @@ Through observability, the organization ensures that the fraud detection system 
 * This capability transforms decision systems from static deployments into **continuously supervised operational systems**.
 * As intelligence systems grow more complex and autonomous, observability becomes essential for maintaining reliability and trust.
 
-The next chapter explores how organizations integrate these capabilities into **governance and operational processes that manage intelligent systems at scale**.
+**Transition to the Next Chapter**
+
+Observability ensures that data and decision systems continue operating reliably over time. But monitoring systems alone cannot determine where organizations should focus their analytical efforts. The next chapter explores data strategy and how organizations prioritize the decisions where data can create the greatest value.
 
 ---
 
