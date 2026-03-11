@@ -131,7 +131,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Testing a New Recommendation Algorithm in an E-Commerce Platform
+## Example — Testing a New Recommendation Algorithm in an E-Commerce Platform
 
 An online retail platform wants to determine whether a new recommendation algorithm improves product discovery.
 
@@ -171,7 +171,7 @@ Through this experiment, the organization obtains **direct evidence about the ef
 
 ---
 
-## Final Section — Turning Decisions Into Testable Hypotheses
+## Turning Decisions Into Testable Hypotheses
 
 * Experimentation systems transform decision-making from assumption-driven processes into evidence-driven learning.
 * By comparing alternatives through randomized experiments, organizations can measure the true impact of their decisions.
