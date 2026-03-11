@@ -192,7 +192,9 @@ Through this strategic alignment, the company ensures that its data capabilities
 * This approach transforms data initiatives from isolated technical projects into **strategic decision-improvement programs**.
 * When data systems are aligned with high-impact decisions, organizations gain a sustainable advantage in their ability to act intelligently.
 
-The next chapter concludes the book by bringing together the components of decision intelligence systems into a **unified organizational capability for continuous learning and decision improvement**.
+**Transition to the Next Chapter**
+
+A clear data strategy identifies the decisions that matter most and aligns analytical capabilities around them. When these capabilities are integrated across the enterprise, organizations can fundamentally transform how they operate. The final chapter explores what it means to become a truly data-driven organization.
 
 ---
 
