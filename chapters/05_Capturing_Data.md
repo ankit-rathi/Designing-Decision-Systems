@@ -207,8 +207,9 @@ This example illustrates how **instrumentation determines what aspects of user b
 * Strong instrumentation creates a reliable record of system behavior, while weak instrumentation leaves critical activities unobserved.
 * As a result, the moment when reality is first measured is one of the **most important points in the entire data lifecycle**.
 
-In the next chapter, the focus moves from capturing events to **storing and organizing the resulting data**.
-Once events are observed and recorded, organizations must structure those records so they can be efficiently queried, combined, and analyzed.
+**Transition to the Next Chapter**
+
+Capturing observations creates valuable datasets, but these datasets often originate from many different systems and sources. To support analysis and decision-making, this information must be brought together in a coherent structure. The next chapter examines how data integration connects disparate data sources into unified analytical datasets.
 
 ---
 
