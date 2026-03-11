@@ -137,7 +137,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Monitoring a Fraud Detection System in a Digital Payments Platform
+## Example — Monitoring a Fraud Detection System in a Digital Payments Platform
 
 Consider a digital payments company that uses machine learning models to detect fraudulent transactions.
 
@@ -183,7 +183,7 @@ Through observability, the organization ensures that the fraud detection system 
 
 ---
 
-## Final Section — Observability as the Safety Layer of Decision Intelligence
+## Observability as the Safety Layer of Decision Intelligence
 
 * Observability provides the visibility required to maintain reliable decision intelligence systems.
 * By monitoring data pipelines, model behavior, and decision outcomes, organizations can detect failures early and respond quickly.
