@@ -1,338 +1,226 @@
-A **master architecture diagram** for your book must satisfy three goals:
+# The Core Mental Model of the Book
 
-1️⃣ Represent the **entire Decision Intelligence System**
-2️⃣ Show the **flow from reality → learning**
-3️⃣ Allow **every chapter diagram to be a zoom-in of one part**
+## The Decision Intelligence System
 
-Think of it like the **architecture diagrams used in ML systems** or in books like Designing Data-Intensive Applications and Designing Machine Learning Systems.
-
-The key is to make the diagram look like a **layered architecture**, not just a loop.
-
----
-
-# Master Decision Intelligence Architecture (Textual Representation)
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                    REAL WORLD SYSTEM                     │
-│                                                          │
-│  Customers • Products • Operations • Environment         │
-│  Business Events • User Behavior • Market Changes        │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                OBSERVATION & DATA CAPTURE                │
-│                                                          │
-│  Instrumentation • Logging • Sensors • Event Tracking    │
-│  Transaction Systems • Application Events                │
-│                                                          │
-│  → Converts real-world events into recorded data         │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                    DATA PLATFORM LAYER                   │
-│                                                          │
-│  Data Ingestion Pipelines                                │
-│  Data Warehouses / Data Lakes                            │
-│  Data Integration & Transformation                       │
-│  Data Modeling & Storage                                 │
-│                                                          │
-│  → Creates a unified and structured view of reality      │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                   ANALYTICS & INTELLIGENCE               │
-│                                                          │
-│  Analytical Models                                       │
-│  Machine Learning Models                                 │
-│  Feature Engineering                                     │
-│  Forecasting & Predictions                               │
-│                                                          │
-│  → Converts data into insight and predictions            │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                     DECISION SYSTEMS                     │
-│                                                          │
-│  Decision Rules                                          │
-│  Optimization Models                                     │
-│  Decision Engines                                        │
-│  Recommendation Systems                                  │
-│                                                          │
-│  → Transforms predictions into concrete decisions        │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                   OPERATIONAL ACTIONS                    │
-│                                                          │
-│  Product Features                                        │
-│  Pricing Decisions                                       │
-│  Fraud Prevention                                        │
-│  Marketing Interventions                                 │
-│                                                          │
-│  → Decisions influence real-world systems                │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                      OUTCOME MEASUREMENT                 │
-│                                                          │
-│  Business Metrics                                        │
-│  Experiments & A/B Testing                               │
-│  Causal Impact Analysis                                  │
-│  Performance Monitoring                                  │
-│                                                          │
-│  → Measures the effect of decisions                      │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌──────────────────────────────────────────────────────────┐
-│                     LEARNING SYSTEMS                     │
-│                                                          │
-│  Model Retraining                                        │
-│  Feedback Loops                                          │
-│  Experimentation Systems                                 │
-│  Continuous Optimization                                 │
-│                                                          │
-│  → Improves intelligence using outcomes                  │
-└──────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-                 (Feedback into Data Platform)
-```
-
----
-
-# The System Feedback Loop
-
-The entire architecture creates a **continuous improvement cycle**:
-
-```
-Reality
-   ↓
-Data Capture
-   ↓
-Data Platform
-   ↓
-Intelligence
-   ↓
-Decisions
-   ↓
-Actions
-   ↓
-Outcomes
-   ↓
-Learning
-   ↓
-Better Decisions
-```
-
-This loop is the **core concept of the book**.
-
----
-
-# Cross-Cutting System Layers
-
-Three capabilities operate **across every layer**:
-
-```
-┌────────────────────────────────────┐
-│ DATA TRUST                         │
-│ Governance • Quality • Lineage     │
-└────────────────────────────────────┘
-
-┌────────────────────────────────────┐
-│ OBSERVABILITY                      │
-│ Monitoring • Alerts • Diagnostics  │
-└────────────────────────────────────┘
-
-┌────────────────────────────────────┐
-│ DATA STRATEGY                      │
-│ Decision Prioritization            │
-│ Capability Investment              │
-└────────────────────────────────────┘
-```
-
-These correspond to **Chapters 17–19**.
-
----
-
-# Mapping the Diagram to Your 20 Chapters
-
-### Layer 1 — Reality
-
-Chapters:
-
-```
-Ch1 Decision Problem
-Ch2 Why Data Exists
-```
-
----
-
-### Layer 2 — Observation
-
-```
-Ch4 Modeling Reality
-Ch5 Capturing Data
-```
-
----
-
-### Layer 3 — Data Platform
-
-```
-Ch6 Data Integration
-Ch16 Data Platforms
-```
-
----
-
-### Layer 4 — Intelligence
-
-```
-Ch7 Analytical Thinking
-Ch8 Predictive Intelligence
-Ch9 Intelligence Loop
-```
-
----
-
-### Layer 5 — Decision Systems
-
-```
-Ch10 Decision Design
-Ch11 Operational Decision Systems
-```
-
----
-
-### Layer 6 — Outcome Measurement
-
-```
-Ch12 Measuring Decision Outcomes
-Ch15 Experimentation Systems
-```
-
----
-
-### Layer 7 — Learning Systems
-
-```
-Ch13 Decision Flywheel
-Ch14 Dual Loop Architecture
-```
-
----
-
-### Cross-Cutting Layers
-
-```
-Ch17 Data Trust
-Ch18 Observability
-Ch19 Data Strategy
-```
-
----
-
-### Final Organizational Layer
-
-```
-Ch20 Data-Driven Organization
-```
-
----
-
-# How to Draw This in PowerPoint
-
-Use a **layered stack architecture**.
-
-### Step 1 — Create 7 stacked horizontal blocks
+At its simplest:
 
 ```
 REALITY
+   ↓
 OBSERVATION
-DATA PLATFORM
+   ↓
+DATA
+   ↓
 INTELLIGENCE
-DECISION SYSTEMS
-ACTIONS
-OUTCOMES
+   ↓
+DECISION
+   ↓
+ACTION
+   ↓
+OUTCOME
+   ↓
 LEARNING
+   ↺
+(Better Decisions)
 ```
 
-Each block should span the slide width.
+This is the **Decision Intelligence Loop**.
+
+But to become the **memorable mental model**, it needs to show **three interacting layers**.
 
 ---
 
-### Step 2 — Add arrows between layers
+# The Three-Layer Decision Intelligence System
 
-Vertical arrows:
+This is the **master diagram for the entire book**.
 
 ```
-Top → Bottom
-```
+                ┌──────────────────────────┐
+                │        REAL WORLD        │
+                │ customers • markets • ops│
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                   ┌───────────────────┐
+                   │   OBSERVATION     │
+                   │ sensors • events  │
+                   └─────────┬─────────┘
+                             │
+──────────────────────── DATA LAYER ────────────────────────
 
-And a **curved arrow from Learning → Data Platform**.
+                   ┌───────────────────┐
+                   │       DATA        │
+                   │ logs • events     │
+                   │ transactions      │
+                   └─────────┬─────────┘
+                             │
+                   ┌───────────────────┐
+                   │    DATA SYSTEMS   │
+                   │ pipelines         │
+                   │ warehouses        │
+                   │ feature stores    │
+                   └─────────┬─────────┘
+                             │
+──────────────────── INTELLIGENCE LAYER ────────────────────
+
+                   ┌───────────────────┐
+                   │     ANALYTICS     │
+                   │ understanding     │
+                   └─────────┬─────────┘
+                             │
+                   ┌───────────────────┐
+                   │   MACHINE LEARNING│
+                   │ prediction        │
+                   └─────────┬─────────┘
+                             │
+──────────────────── DECISION LAYER ────────────────────────
+
+                   ┌───────────────────┐
+                   │     DECISIONS     │
+                   │ thresholds        │
+                   │ rules             │
+                   │ policies          │
+                   └─────────┬─────────┘
+                             │
+                   ┌───────────────────┐
+                   │      ACTION       │
+                   │ product behavior  │
+                   │ automation        │
+                   └─────────┬─────────┘
+                             │
+                   ┌───────────────────┐
+                   │      OUTCOME      │
+                   │ user response     │
+                   │ revenue impact    │
+                   └─────────┬─────────┘
+                             │
+                             ▼
+                       LEARNING LOOP
+                             ↺
+```
 
 ---
 
-### Step 3 — Add side pillars
+# Why This Mental Model Works
 
-On the right side add vertical bars:
+It compresses the entire book into **three ideas**.
+
+### 1. Reality must be measured
 
 ```
-DATA TRUST
-OBSERVABILITY
-DATA STRATEGY
+Reality → Data
 ```
 
-These apply across all layers.
+This is **Parts I–II**.
 
 ---
 
-### Step 4 — Minimal icons (optional)
+### 2. Data must become intelligence
 
-You can add:
+```
+Data → Intelligence
+```
 
-| Layer         | Icon idea        |
-| ------------- | ---------------- |
-| Reality       | globe            |
-| Data capture  | sensors          |
-| Data platform | database         |
-| Intelligence  | brain            |
-| Decisions     | branching arrows |
-| Actions       | gear             |
-| Outcomes      | chart            |
-| Learning      | circular arrow   |
+This is **Part III**.
 
 ---
 
-# Why This Diagram Is Powerful
-
-This single diagram:
-
-1️⃣ Explains the **entire book**
-2️⃣ Explains **modern data & AI systems**
-3️⃣ Shows **how organizations learn**
-
-Every chapter diagram becomes a **zoom-in of one layer**.
-
-For example:
+### 3. Intelligence must drive decisions
 
 ```
-Chapter 6 → zoom into Data Platform
-Chapter 8 → zoom into Intelligence
-Chapter 11 → zoom into Decision Systems
-Chapter 15 → zoom into Outcome Measurement
+Intelligence → Decision → Action → Outcome
 ```
+
+This is **Part IV**.
 
 ---
 
-✅ If you'd like, I can also show you something **very powerful for the book's visual language**:
+### 4. Outcomes create learning
 
-**A consistent diagram style for all 20 chapters** so every diagram looks like it belongs to the same architecture (the way Uber and Netflix design their engineering architecture visuals).
+```
+Outcome → Learning → Better Decisions
+```
+
+This is **Parts V–VI**.
+
+---
+
+# The Flywheel Layer
+
+Your book’s unique contribution is that the loop **compounds over time**.
+
+Add this overlay:
+
+```
+           ┌─────────────────────────────┐
+           │        DECISION FLYWHEEL    │
+           │                             │
+           │  Decision → Action          │
+           │       ↓                     │
+           │  Outcome → Data             │
+           │       ↓                     │
+           │  Learning → Intelligence    │
+           │       ↓                     │
+           │  Better Decisions           │
+           └─────────────────────────────┘
+```
+
+The more decisions you make:
+
+• the more outcomes you observe
+• the more data you collect
+• the better your intelligence becomes
+
+This creates **compounding decision advantage**.
+
+---
+
+# The One Sentence Mental Model
+
+If readers remember **one sentence**, it should be this:
+
+> Modern organizations are decision systems that convert observations of reality into actions and continuously learn from the outcomes.
+
+---
+
+# The Book in One Diagram
+
+Your final simplified version should look like this:
+
+```
+REALITY
+   ↓
+DATA
+   ↓
+INTELLIGENCE
+   ↓
+DECISION
+   ↓
+ACTION
+   ↓
+OUTCOME
+   ↓
+LEARNING
+   ↺
+Better Decisions
+```
+
+That’s it.
+
+If readers remember **this loop**, they understand your entire book.
+
+---
+
+# Why This Could Become a Classic Mental Model
+
+Because it unifies five fields that are usually separate:
+
+• data engineering
+• analytics
+• machine learning
+• decision science
+• organizational learning
+
+Very few books connect them **in one coherent system**.
+
+That’s the real intellectual contribution.
