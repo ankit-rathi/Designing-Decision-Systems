@@ -1,5 +1,7 @@
 # Preface
 
+---
+
 Over the past two decades, I have worked across multiple roles in the data and AI ecosystem—as a data scientist, data engineer, and data architect. During this time, I have had the opportunity to work primarily with enterprise organizations, product companies, and consulting firms. Across these environments, I have seen the evolution of data systems from traditional analytics platforms to modern data platforms and AI-driven systems.
 
 Yet despite this technological progress, a recurring pattern continues to appear.
@@ -25,6 +27,8 @@ Over time, these observations led me to a simple but powerful realization:
 
 This idea became the foundation for the framework explored in this book.
 
+---
+
 ## The Decision Intelligence Engine
 
 About four or five years ago, while working across multiple projects and reflecting on the broader landscape of data and AI systems, I began thinking about how organizations convert observations of the world into decisions and actions. This thinking eventually crystallized into a simple conceptual model:
@@ -43,6 +47,8 @@ This book refers to these systems as **Decision Intelligence Engine**.
 
 A decision intelligence system integrates data infrastructure, analytics, machine learning, and operational workflows into a coherent architecture whose ultimate purpose is to improve decisions over time.
 
+---
+
 ## Why This Book Exists
 
 The ideas in this book emerged gradually from many projects, conversations, and reflections over the years. Different projects exposed different aspects of the same underlying challenge. Some projects revealed gaps in data infrastructure. Others highlighted the difficulty of operationalizing machine learning models. Still others showed how analytics initiatives struggled to demonstrate measurable business impact.
@@ -55,6 +61,8 @@ It aims to provide a conceptual framework for understanding how modern data and 
 
 In this sense, the book is not only about data engineering or machine learning. It is about how organizations design systems that transform information into action and learning.
 
+---
+
 ## Who This Book Is For
 
 The primary audience for this book is **data professionals**—data engineers, data scientists, analytics engineers, and architects who design and build modern data systems.
@@ -64,6 +72,8 @@ However, many of the ideas discussed here also apply to **product owners and bus
 Data professionals often focus on technical challenges such as scalability, reliability, and model performance. Business leaders, on the other hand, focus on outcomes such as revenue growth, risk reduction, and customer experience. Decision intelligence systems sit at the intersection of these concerns.
 
 Understanding how data systems influence decisions can help both technical and business stakeholders collaborate more effectively.
+
+---
 
 ## What This Book Covers
 
@@ -85,6 +95,8 @@ Finally, the book examines the organizational and architectural foundations requ
 
 Throughout the book, the focus remains on **systems thinking**: understanding how the different components of data and AI ecosystems work together to create value.
 
+---
+
 ## How to Read This Book
 
 This book is designed to serve both as a **conceptual guide** and as a **reference**.
@@ -95,6 +107,8 @@ However, each chapter is also written to stand on its own. Readers interested in
 
 The goal is not only to explain individual technologies but also to provide a **mental model** that helps readers understand how these technologies fit together within larger decision systems.
 
+---
+
 ## A Note on Perspective
 
 The ideas presented in this book are shaped by my experiences working with data systems across many organizations over the past twenty years. Like any framework, the concepts described here are abstractions intended to simplify complex realities.
@@ -102,6 +116,8 @@ The ideas presented in this book are shaped by my experiences working with data 
 Different organizations will implement these ideas in different ways, depending on their scale, industry, and constraints. My hope is that the framework presented here provides a useful lens through which readers can analyze their own systems and identify opportunities for improvement.
 
 Ultimately, building effective decision intelligence systems is not just a technical challenge. It requires aligning technology, processes, and organizational culture around a shared goal: improving decisions.
+
+---
 
 ## Looking Ahead
 
