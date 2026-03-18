@@ -2,7 +2,7 @@
 
 ---
 
-## How Systems Improve Through Use *(Opening Observation)*
+## How Systems Improve Through Use 
 
 Many of the most effective digital platforms become stronger as they scale. Recommendation systems improve as more users interact with suggested content. Marketplaces refine pricing, matching, and ranking as transaction volume increases. Each interaction provides new information about user behavior and system performance.
 
@@ -12,7 +12,7 @@ Over time, these interactions accumulate into a continuous stream of feedback. S
 
 ---
 
-## The Limits of Isolated Decision-Making *(Problem)*
+## The Limits of Isolated Decision-Making 
 
 In many organizations, decisions are treated as discrete events. A model generates a prediction, a rule determines an action, and the process ends once the action is executed. While outcomes may be observed, they are not always systematically incorporated into future decisions.
 
@@ -24,7 +24,7 @@ To overcome this limitation, systems must be designed to convert decision outcom
 
 ---
 
-## Decisions as a Source of Learning *(Core Idea)*
+## Decisions as a Source of Learning 
 
 Every decision generates data that can improve future decisions. The act of choosing an action, observing its outcome, and recording the result creates new information about system behavior.
 
@@ -34,7 +34,7 @@ Over time, this process creates compounding improvements. Each cycle builds on t
 
 ---
 
-## The Feedback Loop of Continuous Improvement *(System Model)*
+## The Feedback Loop of Continuous Improvement 
 
 The decision flywheel can be represented as a recurring loop:
 
@@ -52,7 +52,7 @@ This data is then incorporated into analytical and predictive systems, enabling 
 
 ---
 
-## Mechanisms of the Decision Flywheel *(Mechanism)*
+## Mechanisms of the Decision Flywheel 
 
 ### Feedback Loops in Decision Systems
 
@@ -98,7 +98,7 @@ These systems leverage user behavior data to refine their models continuously. O
 
 ---
 
-## Example: Learning in Marketplace Recommendations *(Real-World Example)*
+## Example: Learning in Marketplace Recommendations
 
 Online marketplaces provide a clear illustration of the decision flywheel in action. Recommendation algorithms determine which products or services to display to users based on behavioral signals.
 
@@ -110,7 +110,7 @@ This information is incorporated into future models. As the system processes mor
 
 ---
 
-## Compounding Advantage Through Learning Systems *(Strategic Insight)*
+## Compounding Advantage Through Learning Systems 
 
 The decision flywheel transforms operational activity into continuous improvement. Systems that capture and reuse outcome data learn faster than those relying on static rules or periodic updates.
 
