@@ -2,7 +2,7 @@
 
 ---
 
-## Making Sense of Organizational Data *(Opening Observation)*
+## Making Sense of Organizational Data 
 
 Modern organizations rely heavily on dashboards, reports, and analytical summaries to understand how their systems are performing. Sales figures, engagement rates, churn metrics, and operational indicators are reviewed regularly across teams. These outputs are derived from large volumes of data collected through integrated systems.
 
@@ -12,7 +12,7 @@ At this stage, the focus is retrospective. Organizations are not yet predicting 
 
 ---
 
-## The Gap Between Data and Understanding *(Problem)*
+## The Gap Between Data and Understanding 
 
 Integrated data systems provide access to large volumes of structured observations. These datasets capture detailed records of customer interactions, transactions, and operational processes. However, the presence of data does not guarantee understanding.
 
@@ -24,7 +24,7 @@ Without systematic analytical processes, organizations risk operating with incom
 
 ---
 
-## From Data to Explanation *(Core Idea)*
+## From Data to Explanation 
 
 Analytics provides the mechanism for transforming raw data into meaningful explanations of past behavior. It introduces structure by summarizing observations, defining metrics, and examining relationships across variables.
 
@@ -34,7 +34,7 @@ The outcome of this process is insight. Insights explain what has happened withi
 
 ---
 
-## The Analytical Transformation Pipeline *(System Model)*
+## The Analytical Transformation Pipeline 
 
 The process of converting raw data into actionable understanding can be represented as a structured pipeline:
 
@@ -54,7 +54,7 @@ This pipeline formalizes the transition from observation to understanding.
 
 ---
 
-## How Analytical Systems Extract Meaning *(Mechanism)*
+## How Analytical Systems Extract Meaning 
 
 ### Descriptive Analytics
 
@@ -100,7 +100,7 @@ Effective interpretation translates numerical findings into explanations that de
 
 ---
 
-## Example: Cohort Analysis in Retail *(Real-World Example)*
+## Example: Cohort Analysis in Retail 
 
 Retail organizations often use cohort analysis to understand customer behavior over time. Customers are grouped into cohorts based on shared characteristics, such as the time period in which they made their first purchase.
 
@@ -112,7 +112,7 @@ By examining these patterns, organizations gain insight into customer lifecycle 
 
 ---
 
-## The Role of Analytics in Decision Intelligence *(Strategic Insight)*
+## The Role of Analytics in Decision Intelligence 
 
 Analytical intelligence forms the interpretive foundation of decision intelligence systems. It enables organizations to convert large volumes of integrated data into structured understanding of how systems operate.
 
