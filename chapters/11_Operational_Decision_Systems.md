@@ -2,7 +2,7 @@
 
 ---
 
-## Decisions at the Speed of Interaction *(Opening Observation)*
+## Decisions at the Speed of Interaction 
 
 Many modern digital systems make decisions in real time, embedded directly within user interactions. Ride-sharing platforms assign drivers the moment a request is placed. E-commerce systems generate recommendations as users browse. Payment platforms approve or decline transactions within milliseconds.
 
@@ -12,7 +12,7 @@ The defining characteristic of these systems is immediacy. Decisions are made at
 
 ---
 
-## The Disconnect Between Intelligence and Execution *(Problem)*
+## The Disconnect Between Intelligence and Execution 
 
 Many organizations develop predictive models and decision rules within analytical environments. These systems generate insights, forecasts, and recommendations, but remain separated from operational workflows.
 
@@ -24,7 +24,7 @@ Organizations therefore require infrastructure that allows predictive intelligen
 
 ---
 
-## Embedding Intelligence into Operational Workflows *(Core Idea)*
+## Embedding Intelligence into Operational Workflows 
 
 Operational decision systems integrate predictive models and decision logic directly into business processes. Instead of generating insights for later use, these systems act immediately when relevant events occur.
 
@@ -34,7 +34,7 @@ By embedding intelligence into operational workflows, organizations ensure that 
 
 ---
 
-## The Architecture of Real-Time Decisions *(System Model)*
+## The Architecture of Real-Time Decisions 
 
 The structure of an operational decision system can be represented as a sequential flow:
 
@@ -52,7 +52,7 @@ Finally, the system executes an **action**. This action directly affects the ope
 
 ---
 
-## Mechanisms of Operational Decision Execution *(Mechanism)*
+## Mechanisms of Operational Decision Execution 
 
 ### Real-Time Decision Systems
 
@@ -98,7 +98,7 @@ At the same time, systems must scale to handle large volumes of events. Infrastr
 
 ---
 
-## Example: Real-Time Matching in Ride-Sharing *(Real-World Example)*
+## Example: Real-Time Matching in Ride-Sharing 
 
 Ride-sharing platforms provide a clear example of operational decision systems. When a rider requests a trip, an event is generated within the platform.
 
@@ -110,7 +110,7 @@ This entire process occurs within seconds. The decision is executed as part of t
 
 ---
 
-## From Execution to Evaluation *(Strategic Insight)*
+## From Execution to Evaluation 
 
 Embedding decision logic into operational systems allows organizations to act at the speed of events. Real-time intelligence enables dynamic pricing, personalized experiences, and automated risk management.
 
