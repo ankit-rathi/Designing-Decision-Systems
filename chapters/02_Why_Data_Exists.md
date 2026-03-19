@@ -46,11 +46,11 @@ The creation of data can be understood as a simple transformation process:
 reality → observation → data
 ```
 
-The process begins with **reality**, which consists of events, behaviors, and conditions occurring in the world. Customers interact with products, machines operate within factories, markets fluctuate, and environmental conditions evolve. These phenomena exist independently of whether an organization measures them.
+The process begins with *reality*, which consists of events, behaviors, and conditions occurring in the world. Customers interact with products, machines operate within factories, markets fluctuate, and environmental conditions evolve. These phenomena exist independently of whether an organization measures them.
 
-Organizations attempt to perceive these phenomena through **observation**. Observations occur when instruments, systems, or processes detect aspects of reality. Sensors measure temperature or motion, software systems log user interactions, and surveys capture customer responses.
+Organizations attempt to perceive these phenomena through *observation*. Observations occur when instruments, systems, or processes detect aspects of reality. Sensors measure temperature or motion, software systems log user interactions, and surveys capture customer responses.
 
-Observations are then encoded and stored as **data**. Measurements are transformed into structured records—numbers, timestamps, identifiers, or categorical values—that can be stored in databases or data systems.
+Observations are then encoded and stored as *data*. Measurements are transformed into structured records—numbers, timestamps, identifiers, or categorical values—that can be stored in databases or data systems.
 
 Data therefore functions as a representation of reality captured through measurement. It does not contain reality itself, but rather recorded traces of observed events. These traces allow organizations to reconstruct and analyze patterns that would otherwise remain invisible.
 
@@ -78,7 +78,7 @@ Effective data systems balance these economics by focusing measurement on signal
 
 Not all observations carry meaningful information. Many measurements include random variation, operational anomalies, or irrelevant fluctuations.
 
-Distinguishing **signal** from **noise** becomes a central analytical challenge. Signal represents patterns that reflect genuine structure in the environment, while noise reflects variation unrelated to the underlying phenomena being studied.
+Distinguishing *signal* from *noise* becomes a central analytical challenge. Signal represents patterns that reflect genuine structure in the environment, while noise reflects variation unrelated to the underlying phenomena being studied.
 
 Statistical techniques, aggregation, and repeated measurement help organizations isolate stable signals from transient variation.
 
@@ -140,4 +140,4 @@ However, raw data alone does not produce decisions. Observations must still be i
 
 Data therefore forms the first layer of a broader system. It provides the raw representation of reality upon which deeper reasoning processes operate.
 
-Understanding how these layers interact leads to the next step in the framework: the **Decision Intelligence Loop**, which describes how organizations transform data into decisions and learning over time.
+Understanding how these layers interact leads to the next step in the framework: the *Decision Intelligence Loop*, which describes how organizations transform data into decisions and learning over time.
