@@ -44,13 +44,13 @@ The transformation from historical data to future predictions can be represented
 data → features → model → prediction
 ```
 
-The pipeline begins with **data**, which consists of historical observations that include both input variables and known outcomes. This data provides the foundation for learning patterns.
+The pipeline begins with *data*, which consists of historical observations that include both input variables and known outcomes. This data provides the foundation for learning patterns.
 
-From this data, **features** are constructed. Features are structured variables derived from raw observations, designed to capture relevant aspects of the problem. They translate raw data into a format that models can interpret effectively.
+From this data, *features* are constructed. Features are structured variables derived from raw observations, designed to capture relevant aspects of the problem. They translate raw data into a format that models can interpret effectively.
 
-The **model** is the computational component that learns relationships between features and outcomes. During training, the model adjusts its internal parameters to minimize prediction error on historical data.
+The *model* is the computational component that learns relationships between features and outcomes. During training, the model adjusts its internal parameters to minimize prediction error on historical data.
 
-Once trained, the model produces **predictions**. These predictions estimate the probability or value of future events when new data is provided. The output can represent classifications, numerical forecasts, or probability distributions.
+Once trained, the model produces *predictions*. These predictions estimate the probability or value of future events when new data is provided. The output can represent classifications, numerical forecasts, or probability distributions.
 
 This pipeline formalizes how systems move from historical observations to forward-looking estimates.
 
@@ -72,9 +72,9 @@ The learning process involves identifying patterns that map inputs to outputs. F
 
 ### Classification and Regression
 
-Predictive problems are typically categorized into classification or regression tasks. **Classification** models predict discrete categories, such as whether an email is spam or not.
+Predictive problems are typically categorized into classification or regression tasks. *Classification* models predict discrete categories, such as whether an email is spam or not.
 
-**Regression** models predict continuous values, such as future revenue or demand levels. The choice between these approaches depends on the nature of the outcome variable.
+*Regression* models predict continuous values, such as future revenue or demand levels. The choice between these approaches depends on the nature of the outcome variable.
 
 ### Feature Engineering
 
@@ -122,4 +122,4 @@ Applications of predictive intelligence span multiple domains. Organizations can
 
 However, predictive systems are not static. Models depend on historical data, and their accuracy can degrade as environments change. Continuous monitoring, retraining, and validation are required to maintain performance.
 
-Managing this lifecycle introduces a new layer of complexity in data systems. Organizations must govern how models are developed, deployed, and updated over time. This requirement leads to the next stage in decision intelligence: managing the **intelligence lifecycle**.
+Managing this lifecycle introduces a new layer of complexity in data systems. Organizations must govern how models are developed, deployed, and updated over time. This requirement leads to the next stage in decision intelligence: managing the *intelligence lifecycle*.
