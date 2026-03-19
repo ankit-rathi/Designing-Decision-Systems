@@ -46,11 +46,11 @@ The construction of organizational data models can be summarized through a simpl
 entities + events → data model
 ```
 
-**Entities** represent the core objects that exist within a system. In a business context, these might include customers, products, accounts, orders, or employees. Entities correspond to identifiable components of the organization’s operational environment.
+*Entities* represent the core objects that exist within a system. In a business context, these might include customers, products, accounts, orders, or employees. Entities correspond to identifiable components of the organization’s operational environment.
 
-**Events** represent actions or occurrences that affect these entities. A customer placing an order, a payment being processed, or a shipment leaving a warehouse are examples of events. Events describe how the system evolves over time.
+*Events* represent actions or occurrences that affect these entities. A customer placing an order, a payment being processed, or a shipment leaving a warehouse are examples of events. Events describe how the system evolves over time.
 
-A **data model** organizes entities and events into structured representations. The model defines what attributes belong to each entity, how entities relate to one another, and how events modify their states. These definitions become the foundation for databases, application logic, and analytical systems.
+A *data model* organizes entities and events into structured representations. The model defines what attributes belong to each entity, how entities relate to one another, and how events modify their states. These definitions become the foundation for databases, application logic, and analytical systems.
 
 By structuring entities and events into coherent models, organizations create digital representations of how their operations function.
 
@@ -106,7 +106,7 @@ These gaps create potential differences between recorded data and actual events.
 
 Consider how an online retailer represents the process of purchasing and delivering products. Although the underlying activity involves many participants and operational steps, the organization must encode the process in structured data.
 
-The system defines several core entities, including **customers**, **products**, **orders**, and **shipments**. Each entity represents an object that exists within the retailer’s operational environment. Attributes such as product price, customer information, and order identifiers describe their characteristics.
+The system defines several core entities, including *customers*, *products*, *orders*, and *shipments*. Each entity represents an object that exists within the retailer’s operational environment. Attributes such as product price, customer information, and order identifiers describe their characteristics.
 
 Events occur when customers interact with the platform. A purchase request creates an order, payment processing confirms the transaction, and warehouse systems generate shipment records. Each event modifies the state of the relevant entities.
 
