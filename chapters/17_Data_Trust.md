@@ -42,13 +42,13 @@ The transformation of raw data into trusted data can be represented as:
 data source → validation → governance → trusted data layer
 ```
 
-The process begins with **data sources**, which generate raw observations from operational systems. These sources include applications, transactional systems, and external data feeds. At this stage, data is often incomplete, inconsistent, or unstructured.
+The process begins with *data sources*, which generate raw observations from operational systems. These sources include applications, transactional systems, and external data feeds. At this stage, data is often incomplete, inconsistent, or unstructured.
 
-**Validation processes** act as the first line of control. They check data for accuracy, completeness, and adherence to expected formats. Validation ensures that errors are detected early before propagating downstream.
+*Validation processes* act as the first line of control. They check data for accuracy, completeness, and adherence to expected formats. Validation ensures that errors are detected early before propagating downstream.
 
-**Governance frameworks** define how data is managed across the organization. They establish standards for data quality, ownership, and usage. Governance ensures that data is handled consistently and responsibly.
+*Governance frameworks* define how data is managed across the organization. They establish standards for data quality, ownership, and usage. Governance ensures that data is handled consistently and responsibly.
 
-These combined controls produce a **trusted data layer**. This layer consists of curated datasets that are verified, standardized, and ready for analytical and decision-making use. It serves as the reliable foundation for downstream systems.
+These combined controls produce a *trusted data layer*. This layer consists of curated datasets that are verified, standardized, and ready for analytical and decision-making use. It serves as the reliable foundation for downstream systems.
 
 ---
 
