@@ -1,6 +1,6 @@
-# Decision Intelligence
+# Designing Decision Systems
 
-### How Data and AI Drive Better Decisions and Business Value
+### How Data and AI Turn Decisions into Business Outcomes  
 
 
 ![](https://cdn-images-1.medium.com/max/1800/1*uSMoCJ0CW2YvRsxSMqYkuQ.png)
