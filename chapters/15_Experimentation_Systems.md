@@ -42,13 +42,13 @@ The core structure of experimentation can be represented as:
 variant A vs variant B → outcome comparison
 ```
 
-Each **variant** represents a different decision strategy or product configuration. For example, one variant may use a baseline recommendation algorithm, while another introduces a new ranking logic.
+Each *variant* represents a different decision strategy or product configuration. For example, one variant may use a baseline recommendation algorithm, while another introduces a new ranking logic.
 
 Users or events are randomly assigned to these variants. Randomization ensures that external factors—such as user demographics or timing—are evenly distributed across groups. This creates comparable populations for evaluation.
 
-Each variant produces measurable **outcomes** through user interactions. These outcomes may include engagement metrics, conversion rates, or retention indicators.
+Each variant produces measurable *outcomes* through user interactions. These outcomes may include engagement metrics, conversion rates, or retention indicators.
 
-The final step is **outcome comparison**. By analyzing differences in outcomes between variants, organizations determine the causal impact of the tested change. This comparison provides a reliable basis for decision-making.
+The final step is *outcome comparison*. By analyzing differences in outcomes between variants, organizations determine the causal impact of the tested change. This comparison provides a reliable basis for decision-making.
 
 ---
 
