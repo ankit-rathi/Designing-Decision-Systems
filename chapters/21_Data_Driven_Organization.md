@@ -1,4 +1,4 @@
-# Chapter 20 — The Data-Driven Organization
+# Chapter 21 — The Data-Driven Organization
 
 ---
 
