@@ -39,7 +39,7 @@ This separation allows organizations to improve models continuously while mainta
 The relationship between learning and execution can be represented as a bidirectional system:
 
 ```text id="zzlhg7"
-offline learning system ↔ online execution system
+{ Offline Learning } → { Online Execution } ↺ { Offline Learning }
 ```
 
 The *offline learning system* operates on historical data. It ingests data collected from operational systems, processes it through pipelines, and trains predictive models. This environment supports experimentation and iteration, allowing teams to refine models over time.
