@@ -39,7 +39,7 @@ Over time, this loop compounds. Decisions become more accurate, processes become
 The core structure of a data-driven organization can be represented as:
 
 ```text id="a4bbfo"
-decisions → outcomes → learning → better decisions
+< Decision > → ( Outcome ) → { Learning } ↺ < Decision >
 ```
 
 The cycle begins with *decisions*, which drive actions across the organization. These decisions may be made by individuals, teams, or automated systems embedded in products and operations.
