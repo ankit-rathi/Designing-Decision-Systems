@@ -45,7 +45,7 @@ Reliable instrumentation therefore determines how accurately organizations can o
 The transformation from real-world activity to analyzable data can be described through a simple sequence:
 
 ```text
-event → instrumentation → data record
+( Event ) → { Instrumentation } → [ Data Record ]
 ```
 
 The process begins with an *event*. An event represents a discrete occurrence within a system or environment. Examples include a user clicking a button, a payment being processed, a server generating an error, or a sensor detecting temperature changes.
