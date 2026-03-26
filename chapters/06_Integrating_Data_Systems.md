@@ -43,7 +43,7 @@ Data pipelines therefore serve as the connective layer that transforms distribut
 The integration of distributed data systems can be described through a simple architectural sequence:
 
 ```text
-data sources → ingestion → processing → storage
+( Data Sources ) → { Ingestion } → { Processing } → [ Storage ]
 ```
 
 The process begins with *data sources*. These sources include operational databases, application logs, third-party services, and event streams. Each source generates observations describing activity within a particular system.
