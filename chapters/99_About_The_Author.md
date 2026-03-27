@@ -1,4 +1,6 @@
-## About the Author
+# About the Author
+
+---
 
 Ankit Rathi is a Principal Data Engineer at a leading UK bank, with nearly two decades of experience building data and AI systems that drive real-world business outcomes. His career spans roles across data engineering, analytics, machine learning, and modern data platforms, working with global organizations including SITA and Genpact.
 
