@@ -35,7 +35,8 @@ By embedding governance into the system architecture, organizations ensure that 
 ## The Decision System with a Control Layer
 
 ```text
-( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome ) ↺ [ Governance + Feedback + Control ]
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] →
+( Outcome ) ↺ [ Governance + Feedback + Control ]
 ```
 
 The decision system transforms real-world observations into actions and outcomes through a structured sequence. Each stage contributes to decision-making but also introduces potential failure points. Errors at early stages can propagate and magnify downstream.
