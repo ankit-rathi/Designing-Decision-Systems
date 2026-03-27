@@ -123,4 +123,4 @@ Centralized platforms enable standardization. They ensure that all systems opera
 
 However, infrastructure alone is not sufficient. The value of a data platform depends on the quality and reliability of the data it contains. Organizations must ensure that data is accurate, consistent, and interpretable.
 
-This requirement introduces the next critical layer in decision intelligence systems: ensuring trust in data through governance, validation, and shared understanding—what can be described as data trust.
+This requirement introduces the next critical layer in decision intelligence systems: ensuring trust in data through governance, validation, and shared understanding—what can be described as *data trust*.
