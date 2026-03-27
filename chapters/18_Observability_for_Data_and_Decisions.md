@@ -120,4 +120,4 @@ Continuous monitoring transforms system management from reactive to proactive. I
 
 Observability also enables continuous improvement. By analyzing system behavior, organizations can identify inefficiencies, optimize performance, and refine decision processes. It becomes a feedback mechanism that supports both reliability and evolution.
 
-As data and intelligence systems mature, observability becomes a foundational operational capability. The next step is aligning these technical systems with broader organizational goals, ensuring that data, models, and decisions support a coherent and effective data strategy.
+As data and intelligence systems mature, observability becomes a foundational operational capability. The next step is aligning these technical systems with broader organizational goals, ensuring that data, models, and decisions support a coherent and effective *data strategy*.
